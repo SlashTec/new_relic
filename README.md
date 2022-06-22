@@ -3,7 +3,7 @@
 <h3>1- sign up or sign in https://newrelic.com/</h3><br>
 <h3>2- select auto discovery and chose Kubernetes</h3><br>
 <h3>3- click Begin installation</h3><br>
-<h5>then enter Cluster name and Namespace for the integration</h5><br>
+<h5>    then enter Cluster name and Namespace for the integration</h5><br>
 <h3>4- then select </h3>
 <h5>Scrape all Prometheus endpoints</h5>
 <h5>Gather Log data</h5>
