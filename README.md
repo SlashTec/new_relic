@@ -4,10 +4,10 @@
 <h3>2- select auto discovery and chose Kubernetes</h3><br>
 <h3>3- click Begin installation</h3><br>
 <h5>then enter Cluster name and Namespace for the integration</h5><br>
-<h3>4- then select </h3>
-<h5>Scrape all Prometheus endpoints</h5>
-<h5>Gather Log data</h5>
-<h5>Reduce the amount of ingested data</h5><br>
+<ui><h3>4- then select </h3>
+<li>Scrape all Prometheus endpoints</li>
+<li>Gather Log data</li>
+<li>Reduce the amount of ingested data</li></ui><br>
 <ui><h3>5- Choose install method</h3>
  <li>helm</li></ui><br>
 <h3>the website will give you command hilm, run this command into eks </h3><br>
